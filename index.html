@@ -53,8 +53,8 @@
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse justify-content-between py-4 py-lg-0" id="navbarCollapse">
-            <div class="navbar-nav ms-auto py-0">
+        <div class="collapse navbar-toggle-collapsed justify-content-between py-4 py-lg-0" id="navbarCollapse">
+            <div class="navbar-nav navbar-collapse ms-auto py-0">
                 <a href="#home" class="nav-item nav-link active">Home</a>
                 <a href="#skill" class="nav-item nav-link">Skills</a>
                 <a href="#project" class="nav-item nav-link">Projects</a>
@@ -62,7 +62,7 @@
             <a href="index.html" class="navbar-brand bg-secondary py-3 px-4 mx-3 d-none d-lg-block">
                 <h1 class="text-primary fw-bold m-0">Mohit Dagar</h1>
             </a>
-            <div class="navbar-nav me-auto py-0">
+            <div class="navbar-nav navbar-collapse me-auto py-0">
                 
                 <a href="#service" class="nav-item nav-link">Interests</a>
                 <a href="#contact" class="nav-item nav-link">Contact</a>
@@ -84,8 +84,8 @@
                     <div class="typed-text d-none">Android Developer, Web Designer, App Developer, Web Developer, Front End Developer, App Designer </div>
                     <div class="d-flex align-items-center pt-5">
                         <div class="button-group">
-                        <a href="" class="btn btn-primary py-3 px-auto me-auto">Download CV</a>
-                        <a href="#contact" class="btn btn btn-secondary py-3 px-auto back-to-bottom"><i class="bi bi-envelope">Message me</i></a>
+                        <a href="" class="btn btn-primary py-3 px-auto me-auto "><i class="bi bi-download"></i> Download CV</a>
+                        <a href="#contact" class="btn btn btn-secondary py-3 px-auto back-to-bottom"><i class="bi bi-envelope"> Message me</i></a>
                         </div>
                         <!-- <button type="button" class="btn-play" data-bs-toggle="modal"
                             data-src="www.github.com/mjzd7" data-bs-target="#videoModal">
@@ -698,28 +698,24 @@
                     <p class="mb-2">I work from :</p>
                     <h3 class="fw-bold">Gurugram, Haryana</h3>
                     <hr class="w-100">
-                    <p class="mb-2">Message me at :</p>
-                    <h3 class="fw-bold">+91- 9953593168</h3>
-                    <hr class="w-100">
                     <p class="mb-2">Mail me :</p>
                     <h3 class="fw-bold">27dagar@gmail.com</h3>
                     <hr class="w-100">
-                    <p class="mb-2">Follow me :</p>
+                    <p class="mb-2" id="Contact">Let's Connect :</p>
                     <div class="d-flex pt-2">
-                        <a class="btn btn-lg-square btn-primary me-2" href="https://wa.me/+919953953168"><i class="fab fa-whatsapp"></i></a>
-                        <a class="btn btn-lg-square btn-primary me-2" href="https://t.me/+919953953168"><i class="fab fa-telegram"></i></a>
+                        <a class="btn btn-lg-square btn-primary me-2" href="https://www.linkedin.com/in/mohit-dagar/"><i class="bi bi-envelope"></i></a>
                         <a class="btn btn-lg-square btn-primary me-2" href="https://www.linkedin.com/in/mohit-dagar/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="btn btn-lg-square btn-primary me-2" href="https://github.com/mjzd7"><i class="fab fa-brands fa-github"></i></a>
                         <a class="btn btn-lg-square btn-primary me-2" href="https://twitter.com/mjzd7"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-lg-square btn-primary me-2" href="https://www.facebook.com/The.Irresistible.Mohit/"><i class="fab fa-facebook-f"></i></a>
-
+                        <a class="btn btn-lg-square btn-primary me-2" href="https://www.instagram.com/_mohit_dagar"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-lg-square btn-primary me-2" href="https://t.me/mohitdagar1"><i class="fab fa-telegram"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <p class="mb-1"></p>
                     
                     <div class="container">
-  <h1 id="Contact">Get in Touch:</h1>
+  <h1 >Your message :</h1>
   <form target="_blank" action="https://formsubmit.co/27dagar@gmail.com" method="POST">
     <div class="row g-3 pt-3" >
         <div class="col-md-6" align-items-center>
@@ -736,7 +732,7 @@
     </div>
     <div class="form-group">
       <textarea placeholder="Your Message" class="form-control" name="message" rows="5" required></textarea>
-<span class="help-block"> Please enter your Message</span>
+<span class="help-block">I'll get back in touch with you as soon as possible.</span>
     </div>
                                 <button type="submit" class="btn btn-primary py-3 px-auto" type="submit">Send Message</button>
 
@@ -798,6 +794,13 @@
     
     -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("nav").find("li").on("click", "a", function () {
+                $('.navbar-collapse.in').collapse('hide');
+            });
+        });
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     
     <script src="lib/wow/wow.min.js"></script>
