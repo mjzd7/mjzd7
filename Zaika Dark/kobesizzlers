@@ -1,0 +1,864 @@
+<body class="home page-template-default page page-id-23 wp-custom-logo">
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-dark-grayscale">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR>
+          <feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG>
+          <feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-grayscale">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0 1"></feFuncR>
+          <feFuncG type="table" tableValues="0 1"></feFuncG>
+          <feFuncB type="table" tableValues="0 1"></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-purple-yellow">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR
+            type="table"
+            tableValues="0.54901960784314 0.98823529411765"
+          ></feFuncR>
+          <feFuncG type="table" tableValues="0 1"></feFuncG>
+          <feFuncB
+            type="table"
+            tableValues="0.71764705882353 0.25490196078431"
+          ></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-blue-red">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0 1"></feFuncR>
+          <feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG>
+          <feFuncB
+            type="table"
+            tableValues="0.5921568627451 0.27843137254902"
+          ></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-midnight">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0 0"></feFuncR>
+          <feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG>
+          <feFuncB type="table" tableValues="0 1"></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-magenta-yellow">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR>
+          <feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG>
+          <feFuncB
+            type="table"
+            tableValues="0.35294117647059 0.47058823529412"
+          ></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-purple-green">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR
+            type="table"
+            tableValues="0.65098039215686 0.40392156862745"
+          ></feFuncR>
+          <feFuncG type="table" tableValues="0 1"></feFuncG>
+          <feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs></svg
+  ><svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 0 0"
+    width="0"
+    height="0"
+    focusable="false"
+    role="none"
+    style="
+      visibility: hidden;
+      position: absolute;
+      left: -9999px;
+      overflow: hidden;
+    "
+  >
+    <defs>
+      <filter id="wp-duotone-blue-orange">
+        <feColorMatrix
+          color-interpolation-filters="sRGB"
+          type="matrix"
+          values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "
+        ></feColorMatrix>
+        <feComponentTransfer color-interpolation-filters="sRGB">
+          <feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR>
+          <feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG>
+          <feFuncB
+            type="table"
+            tableValues="0.84705882352941 0.41960784313725"
+          ></feFuncB>
+          <feFuncA type="table" tableValues="1 1"></feFuncA>
+        </feComponentTransfer>
+        <feComposite in2="SourceGraphic" operator="in"></feComposite>
+      </filter>
+    </defs>
+  </svg>
+  <div id="page" class="site">
+    <header
+      id="masthead"
+      class="site-header wow fadeInDown"
+      data-wow-duration="0.5s"
+      style="
+        background: rgba(162, 73, 33, 0);
+        visibility: visible;
+        animation-duration: 0.5s;
+        animation-name: fadeInDown;
+      "
+    >
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="site-header__wrapper">
+              <div class="site-branding">
+                <a
+                  href="http://www.kobesizzlers.co.uk/"
+                  class="custom-logo-link"
+                  rel="home"
+                  aria-current="page"
+                  ><img
+                    width="1726"
+                    height="516"
+                    src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2.png"
+                    class="custom-logo"
+                    alt="Kobe Sizzlers"
+                    srcset="
+                      http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2.png          1726w,
+                      http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2-300x90.png    300w,
+                      http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2-1024x306.png 1024w,
+                      http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2-768x230.png   768w,
+                      http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/logo2-1536x459.png 1536w
+                    "
+                    sizes="(max-width: 1726px) 100vw, 1726px"
+                /></a>
+              </div>
+              <!-- .site-branding -->
+              <nav id="site-navigation" class="main-navigation">
+                <div class="menu-header-menu-container">
+                  <ul id="main_menu" class="menu">
+                    <li
+                      id="menu-item-20"
+                      class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"
+                    >
+                      <a href="http://kobesizzlers.co.uk/">Home</a>
+                    </li>
+                    <li
+                      id="menu-item-19"
+                      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
+                    >
+                      <a href="http://www.kobesizzlers.co.uk/menu/">Menu</a>
+                    </li>
+                    <li
+                      id="menu-item-18"
+                      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"
+                    >
+                      <a href="http://www.kobesizzlers.co.uk/about-us/"
+                        >About us</a
+                      >
+                    </li>
+                    <li
+                      id="menu-item-17"
+                      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"
+                    >
+                      <a href="http://www.kobesizzlers.co.uk/bookings/"
+                        >Bookings</a
+                      >
+                    </li>
+                    <li
+                      id="menu-item-16"
+                      class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"
+                    >
+                      <a href="http://www.kobesizzlers.co.uk/contact-us/"
+                        >Contact us</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+                <div class="main-navigation__burger">
+                  <div class="main-navigation__burger__btn">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                  </div>
+                </div>
+              </nav>
+              <!-- #site-navigation -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <!-- #masthead -->
+    <div id="site-navigation-burger" class="main-navigation-burger">
+      <div class="container height-100">
+        <div class="row height-100">
+          <div class="col-7 col-lg-3 col-md-4">
+            <a
+              href="http://www.kobesizzlers.co.uk/bookings/"
+              class="make-reservation"
+            >
+              <span>make a reservation</span>
+              <i class="fa fa-calendar-o" aria-hidden="true"></i>
+            </a>
+          </div>
+          <div class="col-md-4 col-lg-2 offset-lg-2 md-display-none">
+            <div class="main-navigation-burger__top-logo">
+              <img
+                src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/04/logo_with_bottom.png"
+                alt="logo_with_bottom"
+              />
+            </div>
+          </div>
+          <div
+            class="col-5 col-md-4 col-lg-5 d-flex align-items-center justify-content-end"
+          >
+            <div class="main-navigation__burger">
+              <div class="main-navigation__burger__btn active">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="col-6 md-display-none height-100"> -->
+          <!-- <div class="main-navigation-burger__background-form-items-menu"> -->
+          <!-- <div class="main-navigation-burger__background-form-items-menu__item">
+<img src="" alt="">
+</div> -->
+          <!-- </div> -->
+          <!-- </div> -->
+          <div class="col-md-12 col-lg-12 height-100">
+            <div class="menu-header-menu-container">
+              <ul id="main_menu" class="menu">
+                <li
+                  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"
+                >
+                  <a href="http://kobesizzlers.co.uk/">Home</a>
+                </li>
+                <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"
+                >
+                  <a href="http://www.kobesizzlers.co.uk/menu/">Menu</a>
+                </li>
+                <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"
+                >
+                  <a href="http://www.kobesizzlers.co.uk/about-us/">About us</a>
+                </li>
+                <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"
+                >
+                  <a href="http://www.kobesizzlers.co.uk/bookings/">Bookings</a>
+                </li>
+                <li
+                  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"
+                >
+                  <a href="http://www.kobesizzlers.co.uk/contact-us/"
+                    >Contact us</a
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-content-block" style="max-height: 913px; height: 913px">
+      <div class="header-content-block__slider slick-initialized slick-slider">
+        <div class="slick-list draggable">
+          <div
+            class="slick-track"
+            style="
+              opacity: 1;
+              width: 349px;
+              transform: translate3d(0px, 0px, 0px);
+            "
+          >
+            <div
+              class="header-content-block__slider__slide slick-slide slick-current slick-active"
+              data-slick-index="0"
+              aria-hidden="false"
+              tabindex="0"
+              style="width: 349px"
+            >
+              <img
+                class="header-content-block__slider__slide__background-img"
+                src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/Home-Banner.png"
+                alt=""
+              />
+              <div class="container">
+                <div class="row">
+                  <div class="col-12">
+                    <div class="header-content-block__slider__slide__content">
+                      <div
+                        class="header-content-block__slider__slide__content__title wow fadeInUp"
+                        data-wow-duration="0.5s"
+                        style="
+                          visibility: visible;
+                          animation-duration: 0.5s;
+                          animation-name: fadeInUp;
+                        "
+                      >
+                        <h1>Welcome to Kobe Sizzlers</h1>
+                      </div>
+                      <div
+                        class="header-content-block__slider__slide__content__text-under-title wow fadeInUp"
+                        data-wow-duration="0.5s"
+                        style="
+                          visibility: visible;
+                          animation-duration: 0.5s;
+                          animation-name: fadeInUp;
+                        "
+                      >
+                        Using the finest ingredients for the ultimate taste
+                        experience
+                      </div>
+                      <div
+                        class="header-content-block__slider__slide__content__green-block"
+                      >
+                        <!--
+<div class="header-content-block__slider__slide__content__green-block__title  wow fadeInUp"  data-wow-duration="0.5s">
+<h3>highest quality meat</h3>
+</div>
+<div class="header-content-block__slider__slide__content__green-block__text wow fadeInUp" data-wow-duration="0.5s">
+The quality of our beef is carefully managed from farm to plate with all our <br> steak cuts matured to perfection in a dry ageing chamber for up to 28 days.										</div>
+-->
+                        <div
+                          class="header-content-block__slider__slide__content__green-block__controls"
+                        >
+                          <div
+                            class="header-content-block__slider__slide__content__green-block__controls__prev"
+                          ></div>
+                          <div
+                            class="header-content-block__slider__slide__content__green-block__controls__next"
+                          ></div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- header-content-block__slider__slide__content -->
+                  </div>
+                </div>
+              </div>
+              <!-- container -->
+            </div>
+          </div>
+        </div>
+        <!-- header-content-block__slider__slide -->
+      </div>
+      <!-- header-content-block__slider -->
+    </div>
+    <!-- header-content-block -->
+    <div class="content-block-temp-wrapper two-block-in-one">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 content-block-temp">
+            <div class="one">
+              <div class="content-block-temp__img-container">
+                <div class="content-block-temp__img-container__slide">
+                  <img
+                    class="_del_pos_absolute"
+                    src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/06/Home-About-Us.jpg"
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div
+                class="content-block-temp__main-content _left-side wow fadeInUp"
+                data-wow-offset="200"
+                style="visibility: hidden; animation-name: none"
+              >
+                <div class="content-block-temp__main-content__title">
+                  <h1>ABOUT US</h1>
+                </div>
+                <div
+                  class="content-block-temp__main-content__text"
+                  style="max-width: 340px"
+                >
+                  <p>
+                    For over three decades Kobe Sizzlers has dedicated itself to
+                    the art of providing an exceptional dining experience using
+                    fresh quality meat &amp; produce.
+                  </p>
+                </div>
+                <div class="content-block-temp__main-content__button">
+                  <a
+                    href="http://www.kobesizzlers.co.uk/about-us/"
+                    class="tmp-button"
+                    >about more</a
+                  >
+                </div>
+              </div>
+            </div>
+            <div class="two">
+              <div class="content-block-temp-wrapper">
+                <div class="content-block-temp favorites-from-menu">
+                  <div
+                    class="content-block-temp__main-content _right-side wow fadeInUp"
+                    data-wow-offset="200"
+                    style="visibility: hidden; animation-name: none"
+                  >
+                    <div class="content-block-temp__main-content__title">
+                      <h1>our menu</h1>
+                    </div>
+                    <div
+                      class="content-block-temp__main-content__text"
+                      style="max-width: 340px"
+                    >
+                      <p>
+                        For over three decades Kobe Sizzlers has dedicated
+                        itself to the art of providing an exceptional dining
+                        experience using fresh quality meat &amp; produce.
+                      </p>
+                      <!--  -->
+                    </div>
+                    <div class="content-block-temp__main-content__button">
+                      <a
+                        href="http://www.kobesizzlers.co.uk/menu"
+                        class="tmp-button"
+                        >view full menu</a
+                      >
+                    </div>
+                  </div>
+                  <div class="content-block-temp__img-container">
+                    <div class="content-block-temp__img-container__slide">
+                      <img
+                        src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/06/Home-Menu.jpg"
+                        alt=""
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="content-block-temp-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 content-block-temp favorites-from-menu"></div>
+        </div>
+      </div>
+    </div>
+    <div class="content-block-temp-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 content-block-temp eat-with-us">
+            <div class="content-block-temp__img-container">
+              <div class="content-block-temp__img-container__slide">
+                <img
+                  class="_del_pos_absolute"
+                  src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/06/Home-Get-in-touch.jpg"
+                  alt=""
+                />
+              </div>
+            </div>
+            <div
+              class="content-block-temp__main-content _left-side wow fadeInUp"
+              data-wow-offset="200"
+              style="visibility: hidden; animation-name: none"
+            >
+              <div class="content-block-temp__main-content__header _contacts">
+                <div
+                  class="content-block-temp__main-content__header__text"
+                ></div>
+              </div>
+              <div class="content-block-temp__main-content__title">
+                <h1>get in touch</h1>
+              </div>
+              <div class="content-block-temp__main-content__text">
+                <div
+                  class="content-block-temp__main-content__text__addres-block"
+                >
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__addres"
+                  >
+                    64-66 London Rd, Leicester LE2 0QD
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__phone"
+                  >
+                    T: 0116 222 5555
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__email"
+                  >
+                    E: info@kobesizzlers.co.uk
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__btn_block"
+                  >
+                    <a
+                      href="https://goo.gl/maps/p16xDjytb8w4q2GeA"
+                      target="_blank"
+                      class="tmp-button"
+                      >view map</a
+                    >
+                  </div>
+                </div>
+                <div
+                  class="content-block-temp__main-content__text__addres-block"
+                >
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__addres"
+                  >
+                    78 St Mary's Row, Moseley, Birmingham B13 9EF
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__phone"
+                  >
+                    T: 0121 449 4422
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__email"
+                  >
+                    E: info@kobesizzlers.co.uk
+                  </div>
+                  <div
+                    class="content-block-temp__main-content__text__addres-block__btn_block"
+                  >
+                    <a
+                      href="https://goo.gl/maps/sgxK5QyAu4YahzYJ9"
+                      target="_blank"
+                      class="tmp-button"
+                      >view map</a
+                    >
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="newsletter-wrapper">
+      <div class="newsletter">
+        <div class="container">
+          <div class="row">
+            <div
+              class="col-12 pos-relative d-flex justify-content-center align-items-center"
+            >
+              <form id="newsletter-form" class="newsletter-form" action="">
+                <h2>
+                  Subscribe to our newsletter to learn about special offers and
+                  news
+                </h2>
+                <div class="newsletter-form__inputs">
+                  <input
+                    type="email"
+                    class="newsletter-form__inputs__email"
+                    placeholder="Your e-mail"
+                  />
+                  <input
+                    type="submit"
+                    class="newsletter-form__inputs__submit tmp-button _invert-color"
+                    value="Subscribe"
+                  />
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img
+        class="newsletter-wrapper__background"
+        src="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/Footer-Image.png"
+        alt="http://www.kobesizzlers.co.uk/wp-content/uploads/2021/05/Footer-Image.png"
+      />
+    </div>
+    <footer id="colophon" class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="site-footer__menu">
+              <div class="site-footer__menu__left">
+                <div class="site-footer__menu__left__menu-block">
+                  <p class="site-footer__menu__left__menu-block__title">
+                    kobe experience
+                  </p>
+                  <div class="menu-kobe-experience-container">
+                    <ul id="footer_menu_items" class="menu">
+                      <li
+                        id="menu-item-282"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-282"
+                      >
+                        <a href="http://www.kobesizzlers.co.uk/menu/">Menu</a>
+                      </li>
+                      <li
+                        id="menu-item-281"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"
+                      >
+                        <a href="http://www.kobesizzlers.co.uk/about-us/"
+                          >About us</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- <div class="site-footer__menu__left__menu-block__items">
+<a href="#">
+instagram
+</a>
+<a href="#">
+facebook
+</a>
+</div> -->
+                </div>
+                <div class="site-footer__menu__left__menu-block">
+                  <p class="site-footer__menu__left__menu-block__title">
+                    get in touch
+                  </p>
+                  <div class="menu-get-in-touch-container">
+                    <ul id="footer_menu_items" class="menu">
+                      <li
+                        id="menu-item-280"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"
+                      >
+                        <a href="http://www.kobesizzlers.co.uk/bookings/"
+                          >Bookings</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-255"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"
+                      >
+                        <a href="http://www.kobesizzlers.co.uk/contact-us/"
+                          >Contact Us</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="site-footer__menu__left__menu-block">
+                  <p class="site-footer__menu__left__menu-block__title">
+                    Kobe Social
+                  </p>
+                  <div class="menu-kobe-news-container">
+                    <ul id="footer_menu_items" class="menu">
+                      <li
+                        id="menu-item-257"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"
+                      >
+                        <a href="https://www.facebook.com/kobesizzlersuk"
+                          >Facebook</a
+                        >
+                      </li>
+                      <li
+                        id="menu-item-256"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-256"
+                      >
+                        <a href="https://www.instagram.com/kobesizzlers"
+                          >Instagram</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <!-- <div class="site-footer__menu__left__menu-block__items">
+<a href="#">
+instagram
+</a>
+<a href="#">
+facebook
+</a>
+</div> -->
+                </div>
+              </div>
+              <div class="site-footer__menu__right">
+                <p class="site-footer__menu__left__menu-block__title">
+                  reservations
+                </p>
+                <a
+                  href="http://www.kobesizzlers.co.uk/bookings/"
+                  class="make-reservation"
+                >
+                  <span>make a reservation</span>
+                  <i class="fa fa-calendar-o" aria-hidden="true"></i>
+                </a>
+                <div class="site-footer__menu__right__phone"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="site-footer__develop-block">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>Designed and Developed by <span>Arren Marketing</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- #colophon -->
+  </div>
+  <!-- #page -->
+  <script
+    src="http://www.kobesizzlers.co.uk/wp-content/themes/kobesizzlers/js/navigation.js?ver=1.0.0"
+    id="kobesizzlers-navigation-js"
+  ></script>
+</body>
