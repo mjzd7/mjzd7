@@ -502,6 +502,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btns {
   margin-top: 30px;
+
 }
 
 #hero .btn-menu, #hero .btn-book {
@@ -510,12 +511,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   display: inline-block;
-  padding: 12px 30px;
+  padding: 12px 30px 12px;
   border-radius: 50px;
   transition: 0.3s;
   line-height: 1;
-  color: white;
-  border: 2px solid #bf4432;
+  color:white;
+  border: 2px solid #fd5840;
 }
 
 #hero .btn-menu:hover, #hero .btn-book:hover {
@@ -525,6 +526,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-book {
   margin-left: 15px;
+  padding-bottom: 10px;
 }
 
 #hero .play-btn {
@@ -617,9 +619,24 @@ h1, h2, h3, h4, h5, h6 {
   #hero .container {
     padding-top: 130px;
     padding-bottom: 60px;
+    
   }
 }
 
+@media (max-width: 450px) {
+  #hero {
+    height: auto;
+  }
+  #hero .container {
+    padding-top: 130px;
+    padding-bottom: 60px;
+    
+  }
+  #hero .btn-menu, #hero .btn-book {
+    font-size: 16px;
+    padding: 10px 20px 10px;
+  }
+}
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 28px;
@@ -798,7 +815,7 @@ section {
 
 .about .about-img::after {
   position: absolute;
-  right: 20px;
+  right: 20px;\download\Restaurentmenu.pdf
   bottom: 20px;
   width: 60px;
   height: 60px;
