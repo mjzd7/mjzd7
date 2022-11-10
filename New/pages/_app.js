@@ -2,7 +2,7 @@ import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
 
-import "../public/css/theme-colors/gold.css";
+// import "../public/css/theme-colors/gold.css";
 
 function MyApp({ Component, pageProps }) {
   return (
