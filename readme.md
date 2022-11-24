@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="www.mohitdagar.tech/index/personal">MOHIT DAGAR</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.mohitdagar.tech/index/personal">MOHIT DAGAR</a></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on [enhancing my skillset.](https://www.mohitdagar.tech/resume_image)
