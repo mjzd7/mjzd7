@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm <a href="www.mohitdagar.tech/index/personal">MOHIT DAGAR</a></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [enhancing my skillset.](www.mohitdagar.tech/resume_image)
+- 🔭 I’m currently working on [enhancing my skillset.](https://www.mohitdagar.tech/resume_image)
 
 - 👯 I’m looking to collaborate on **Creative web development projects.**
 
-- 👨‍💻 All of my projects are available at [www.mohitdagar.tech](www.mohitdagar.tech)
+- 👨‍💻 All of my projects are available at [www.mohitdagar.tech](https://www.mohitdagar.tech)
 
 - 💬 Ask me about **JS,React Native, Next.js**
 
 - 📫 How to reach me **27dagar@gmail.com**
 
-- 📄 <a href="www.mohitdagar.tech/index/personal"> Know about my experiences here</a>
+- 📄 <a href="https://www.mohitdagar.tech/index/personal"> Know about my experiences here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@
 <p><a href="https://www.buymeacoffee.com/mohitdagar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohitdagar" /></a><a href="https://ko-fi.com/mohitdagar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mohitdagar" /></a></p><br><br>
 
 
-<h3 align="center">Here is how I look in the letters</h3>
+<h3 align="center">Here is how I look in the Letters</h3>
 <br>
                                                                                                     
                                    .,,,,,,,,,,,,...                                                 
