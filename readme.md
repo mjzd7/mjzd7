@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.mohitdagar.tech/index_personal">MOHIT DAGAR</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.mohit.works">MOHIT DAGAR</a></h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on [enhancing my skillset.](https://www.mohitdagar.tech/resume_image)
+- 🔭 I’m currently working on [enhancing my skillset.](https://www.mohit.works)
 
 - 👯 I’m looking to collaborate on **Creative web development projects.**
 
-- 👨‍💻 All of my projects are available at [www.mohitdagar.tech](https://www.mohitdagar.tech)
+- 👨‍💻 All of my projects are available at [www.mohit.works](https://www.mohit.works)
 
 - 💬 Ask me about **JS,React Native, Next.js**
 
-- 📫 How to reach me **27dagar@gmail.com**
+- 📫 How to reach me **work.mohitdagar@gmail.com**
 
-- 📄 <a href="https://www.mohitdagar.tech/index/personal"> Know about my experiences here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
