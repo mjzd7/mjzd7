@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Rust+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Systems+%26+Proxies;Building+production+web+at+Volume)
 
-Delhi, India • [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
+Delhi, India • [Portfolio](https://mohitworks-mjzd7s-projects.vercel.app) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
 
 </div>
 
@@ -112,6 +112,6 @@ Commercial web applications, platforms, and e-commerce architectures engineered,
 <div align="center">
 
 *Open to Software Development Engineer (SDE-1 / SDE-2) roles across Backend, Systems, and Full-Stack teams.*  
-**Connect:** [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
+**Connect:** [Portfolio](https://mohitworks-mjzd7s-projects.vercel.app) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
 
 </div>
