@@ -1,67 +1,97 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.mohit.works">MOHIT DAGAR</a></h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [enhancing my skillset.](https://www.mohit.works)
+# Mohit Dagar
 
-- 👯 I’m looking to collaborate on **Creative web development projects.**
+### **Software Development Engineer (SDE)**
+**Systems Tooling (Rust) • Distributed Backend & APIs (Node.js, TypeScript) • Production Web (Next.js, React)**
 
-- 👨‍💻 All of my projects are available at [www.mohit.works](https://www.mohit.works)
+Delhi, India • [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
 
-- 💬 Ask me about **JS,React Native, Next.js**
+---
 
-- 📫 How to reach me **work.mohitdagar@gmail.com**
+</div>
 
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Software engineer with a hybrid background spanning **low-level systems tooling**, **fault-tolerant backend APIs**, and **high-traffic production web platforms**:
 
-<a href="https://twitter.com/mjzd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mjzd7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohit-dagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-dagar" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohit_dagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohit_dagar" height="30" width="40" /></a>
-  <a href="https://codepen.io/mjzd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mjzd7" height="30" width="40" /></a>
-<a href="https://dev.to/mjzd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mjzd7" height="30" width="40" /></a>
-</p>
+- **Systems & DevTools:** Creator of **[DAGR](https://github.com/mjzd7/dagr)**, a native Rust hypervisor for AI coding agents featuring symbolic AST slicing, Copy-on-Write shadow sandboxes with zero dirty bytes on failure, and Blake3 cryptographic audit receipts (<1ms policy enforcement, MCP JSON-RPC 2.0).
+- **Backend & Network Resilience:** Built **[FreeLLM-Api-with-Proxy](https://github.com/mjzd7/FreeLLM-Api-with-Proxy)**, an OpenAI-compatible reverse proxy on GCP aggregating 28 free upstream inference providers with dynamic failover, rate-limiting, and zero-token leak guarantees.
+- **Production Web Operations Lead:** Led end-to-end web engineering and deployment operations at **[Volume](https://www.volume.in/)**, shipping and maintaining commercial web platforms, Next.js streaming applications, and high-converting e-commerce storefronts.
+- **Algorithmic Fundamentals:** Active problem solver with 150+ LeetCode problems documented with strict Big-O time/space complexity analysis and automated test assertions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjzd7&show_icons=true&locale=en&layout=compact" alt="mjzd7" /></p>
+## 🚀 Production & Commercial Systems
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohitdagar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohitdagar" /></a><a href="https://ko-fi.com/mohitdagar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mohitdagar" /></a></p><br><br>
+Commercial web applications, platforms, and e-commerce architectures engineered, deployed, and maintained for global consumer and enterprise brands:
 
+| Platform / Client | Architecture & Stack | Role & Engineering Scope |
+| :--- | :--- | :--- |
+| **[Volume Flagship](https://www.volume.in/)** | Next.js, React, Vercel | **Lead Web Engineer:** Architected agency digital flagship; implemented React Server Components (RSC), optimized asset streaming, and achieved sub-second FCP. |
+| **[Kanpeki Care](https://kanpekicare.com/)** | E-Commerce, Fastrr, Shiprocket | **Web Operations & Integration:** Engineered custom storefront architecture, integrated 1-click Fastrr checkout, and automated end-to-end 3rd-party logistics (Shiprocket) sync. |
+| **[Hottest Ex](https://hottestex.com/)** | D2C Storefront, Cloudflare CDN | **Lead Developer:** Built high-impact mobile-first storefront, configured Cloudflare edge caching, and optimized Core Web Vitals for high-volume marketing drops. |
+| **[Sipgel](https://sipgel.com/)** | Brand Web Platform, Cloudflare | **Deployment & Maintenance:** Engineered responsive digital platform with automated continuous delivery and asset optimization pipelines. |
+| **[Project 5 Name](https://...)** | Next.js / Node.js / React | *Reserved Slot:* Custom full-stack web application, webhook event pipelines, and REST API integration. |
+| **[Project 6 Name](https://...)** | Headless E-Commerce / Custom APIs | *Reserved Slot:* Automated inventory synchronization, payment gateway webhooks, and sub-second load times. |
+| **[Project 7 Name](https://...)** | Full-Stack Web Portal | *Reserved Slot:* Multi-service brand platform, zero-downtime maintenance, and performance tuning. |
 
-<h3 align="center">Here is how I look in the Letters</h3>
-<br>
-                                                                                                    
-                                   .,,,,,,,,,,,,...                                                 
-                             ,.,.,......,.................                                          
-                          ,..,.,,.,,,..,.,,......... .....,.                                        
-                       ,,,,.,..,............................,                                       
-                     ,,...........................,........,,                                       
-                   ,,......,...............,...,,.*(((/***#*,,                                      
-                  ..................,,/*((((###(((##########(,,                                     
-                 ..............,,*//((((##(#%%%#####%#######(/.                                     
-                 ........,,.,,**//((((((############%########(*                                     
-                 ,,.....,,,,,,,****/(((((####%######%%%%%####(((                                    
-                  ..,.,,,,,,,*****/(((((######%#%##%%%%##*,...,/*                                   
-                   ,,,,,,,,,,,*/(((((((,,*,,...,*/(####(//((/((/(                                   
-                    ,.,,,,,,,*/((((/*//(((##(//////(%%%//*(#(,//(#                                  
-                    ...,,,,,,,/((#((((***/%/,.(*///(#%%%#(((///####                                 
-                    (##(/*,,,,/(####((((/((((/((#(###%%%%%##%%%%%%%#                                
-                   (###%%##/*,/(###########%%%%##((####%%%%##%%%%%%#                                
-                   #%##%((/((**(((####%%%%%%%%%##(((##%%&%%####%%%#(                                
-                     ((##%#(##**(((####%%%%%%##(#(((/**(##/((#(/(#(/                                
-                       /(#%%%#(,*/(((########/(#((*,**,,/,,,,*,*,#(                                 
-                          (##%#/,*//(((((#((,***/(((((#(((((/,/(/(/                                 
-                             ///*,*///((/((#,(//(%&&&&@&&&&/((###//                                 
-                              ///*,**//((//(#####(#(#####%%#####(**                                 
-                               /((*,*/**/((///##########((//####*,                                  
-                                /(((*,,**/***,,/####%##/**(####(,,*                                 
-                                //((((/*,..,..,,*/(##(#((//(((**.#**/*//                            
-                               **//(((((/***,...,,,*/***,*,**,,.&(**********/(                      
-                            /***#%//((((((/*****,...........,/(@@,*************//////               
-                       *********/&&((((((((////((//**////((#(%@@#****************//////////         
-                   /*************%&@&/((((((/(((#(((((((##(@@@@&,******************///////////////(/
-              **/****************%&&@@@/((((((((((##(((/%@@@@@&/********//**********////////////////
-        ////*********************#&&&&@@@@(/(((((((//(@@@@@@@&&*//*//**////***********//////////////                                                                                                  
+---
+
+## 🛠 Core Technical Competencies
+
+- **Languages:** Rust, TypeScript, JavaScript (ES6+), SQL, Bash/Shell, HTML5/CSS3
+- **Backend & Systems:** Node.js, Express, REST APIs, JSON-RPC (Model Context Protocol), Reverse Proxies (Caddy/Nginx), Redis, PostgreSQL
+- **Frontend & Web Platforms:** React, Next.js, Tailwind CSS, Webpack/Vite, Liquid (Shopify Storefronts), Core Web Vitals Optimization
+- **DevOps, Cloud & Infra:** Docker, Git/GitHub, GitHub Actions (CI/CD pipelines), Google Cloud Platform (GCP), Cloudflare DNS/CDN, Vercel, Linux
+- **Architecture & Practices:** AST parsing/symbolic analysis, Copy-on-Write sandboxing, API rate limiting, webhook idempotency, test-driven development (TDD)
+
+---
+
+## 📌 Featured Engineering & Open Source Projects
+
+### ⚡ [DAGR (`dagr`)](https://github.com/mjzd7/dagr)
+*The DAG-Native Symbolic AST Slicing Hypervisor & Safety Sandbox for AI Coding Agents*
+- **Stack:** Rust 2021, Tree-sitter, Blake3, MCP (Model Context Protocol) JSON-RPC 2.0
+- **Key Engineering:**
+  - Enforces architecture boundary policies (`.dagr/rules.yaml`) via AST parsing in <1ms.
+  - Safe Copy-on-Write execution sandbox that rolls back atomically on agent failure.
+  - Generates deterministic, Blake3-hashed audit receipts for every agent diff.
+
+### 🌐 [FreeLLM-Api-with-Proxy](https://github.com/mjzd7/FreeLLM-Api-with-Proxy)
+*Self-Hosted API Reverse Proxy & Aggregator with Dynamic Provider Failover*
+- **Stack:** Node.js, Caddy, Google Cloud Platform (e2-micro Always Free), REST
+- **Key Engineering:**
+  - Reverse proxies 28 free inference providers behind a unified, OpenAI-compatible endpoint.
+  - Built-in provider health checking, automated failover routing, and upstream quota handling.
+  - In-depth architectural documentation, threat modeling, and terms-of-service compliance review.
+
+### 🧩 [LeetCode Top Interview 150 (JavaScript)](https://github.com/mjzd7/leetcode-top-interview-150-javascript)
+*Algorithmic Problem-Solving Manual & Test Suite*
+- **Stack:** JavaScript, Node.js test runner, GitHub Pages portal
+- **Key Engineering:**
+  - 150 top interview questions solved with 3 progression tiers (Brute Force → Optimized → Idiomatic).
+  - Explicit Big-O time and space complexity breakdown for every solution with executable test suites.
+
+### 🤖 [Hermes Agent GCP](https://github.com/mjzd7/hermes-agent-gcp) & [Automate-Instagram-Posts](https://github.com/mjzd7/Automate-Instagram-Posts)
+*Autonomous Agent Runtime & Headless Publishing Automation*
+- **Stack:** Python/Node.js, GCP Compute Engine, Headless Automation
+- **Key Engineering:**
+  - Automated scheduling, task queues, idempotent webhook triggers, and error recovery pipelines.
+
+---
+
+## 📈 Activity & Engineering Standards
+
+- **Commit Hygiene:** Atomic, descriptive conventional commits (`feat:`, `fix:`, `refactor:`, `perf:`).
+- **Code Reliability:** Automated test suites, linting, and strict compiler checks in CI workflows.
+- **Production Focus:** Every project includes clear architecture documentation, environment configuration, and quickstart commands (`docker compose up` or `cargo build --release`).
+
+---
+
+<div align="center">
+
+*Open to Software Development Engineer (SDE-1 / SDE-2) roles across Backend, Systems, and Full-Stack teams.*  
+**Connect:** [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
+
+</div>
