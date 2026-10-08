@@ -1,3 +1,4 @@
+<!-- REHeader banner: generate at https://github.com/khalby786/REHeader and replace this comment with <img> -->
 <div align="center">
 
 # Mohit Dagar
@@ -5,9 +6,9 @@
 ### **Software Development Engineer (SDE)**
 **Systems Tooling (Rust) • Distributed Backend & APIs (Node.js, TypeScript) • Production Web (Next.js, React)**
 
-Delhi, India • [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Rust+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Systems+%26+Proxies;Building+production+web+at+Volume)
 
----
+Delhi, India • [mohit.works](https://mohit.works) • [LinkedIn](https://linkedin.com/in/mohitdagar) • [work.mohitdagar@gmail.com](mailto:work.mohitdagar@gmail.com)
 
 </div>
 
@@ -39,6 +40,8 @@ Commercial web applications, platforms, and e-commerce architectures engineered,
 ---
 
 ## 🛠 Core Technical Competencies
+
+[![Skills](https://skillicons.dev/icons?i=rust,ts,js,nodejs,nextjs,react,postgres,docker,gcp,cloudflare,vercel&perline=11)](https://github.com/tandpfun/skill-icons)
 
 - **Languages:** Rust, TypeScript, JavaScript (ES6+), SQL, Bash/Shell, HTML5/CSS3
 - **Backend & Systems:** Node.js, Express, REST APIs, JSON-RPC (Model Context Protocol), Reverse Proxies (Caddy/Nginx), Redis, PostgreSQL
@@ -86,6 +89,23 @@ Commercial web applications, platforms, and e-commerce architectures engineered,
 - **Commit Hygiene:** Atomic, descriptive conventional commits (`feat:`, `fix:`, `refactor:`, `perf:`).
 - **Code Reliability:** Automated test suites, linting, and strict compiler checks in CI workflows.
 - **Production Focus:** Every project includes clear architecture documentation, environment configuration, and quickstart commands (`docker compose up` or `cargo build --release`).
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjzd7&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjzd7&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+![Profile Summary](https://github-readme-stats.vercel.app/api/pin/?username=mjzd7&repo=dagr&theme=tokyonight&hide_border=true)
+
+### 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!-- github-activity-readme (jamesgeorge007) Action will auto-fill this block -->
 
 ---
 
